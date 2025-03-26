@@ -1,4 +1,5 @@
 BLINKIT POWER BI DASHBOARD
+
 Business Requirement
 Conduct an in-depth analysis of Blinkit's sales performance, customer satisfaction, and inventory distribution to uncover key insights and opportunities for improvement. This will be achieved through various KPIs and data visualizations in Power BI.
 
